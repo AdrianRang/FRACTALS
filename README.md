@@ -1,7 +1,8 @@
 # Fractals!
 A simple project for making fractals  
 <img src="./k3.png" width="200px"></img>   
-A fractal ^
+A fractal ^  
+<p style="font-size: 5px;">(That is an image, if you cant see it open the repo and go to the README)</p>
 
 ## What is this?
 You can generate z = z^2 + c fractals (Thats supposed to be the mandelbrot set but I messed up somewhere), you can also change the 2 to any other number and get differrent fractals, it will have k-1 'arms' where k is the exponent.  
