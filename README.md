@@ -11,7 +11,7 @@ You can manually traverse the fractal by clicking it, or generate a video like [
 
 Step 1: Clone the repo
 ```
-git clone etc
+git clone https://github.com/AdrianRang/FRACTALS
 ```
 
 ### Fractal explorer
